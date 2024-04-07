@@ -1,3 +1,4 @@
+import "./styles.css"
 functon App() {
     return (
         <div className="calculator-grid">
